@@ -316,3 +316,15 @@ body {
     line-height: 20px;
 }
 
+.footer-section {
+    width: 1600px;
+    height: 348px;
+    padding: 120px auto 120px;
+    background-color: #001931;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    gap: 200px;   
+}
